@@ -1,0 +1,20 @@
+{
+    "name": "com.mt.bloc.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:55fad8d8f99bf4e69b4c93f6b1a0bad2",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

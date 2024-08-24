@@ -1,0 +1,17 @@
+{
+  "name": "com.mt.bloc",
+  "version": "0.0.1",
+  "displayName": "Bloc",
+  "description": "A minimalistic predictable state management library for Unity inspired by https://bloclibrary.dev/",
+  "unity": "2022.3",
+  "keywords": [
+    "library",
+    "state management",
+    "bloc"
+  ],
+  "author": {
+    "name": "Mihails Tumkins",
+    "email": "mihailt@gmail.com",
+    "url": "https://github.com/mihailt"
+  }
+}
